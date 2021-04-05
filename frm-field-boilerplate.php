@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Formidable Forms Field Boilerplate
-Description: Create a custom field type in Formiable Forms.
+Description: Create a custom field type in Formidable Forms.
 Version: 1.0
 Plugin URI: https://formidableforms.com/
 Author URI: https://formidableforms.com/
